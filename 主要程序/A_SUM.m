@@ -1,0 +1,16 @@
+clc;
+close all;
+clear all;
+load AFIN1;
+load AFIN2;
+load AFIN3;
+load AFIN4;
+load AFIN5;
+load AFIN6;
+load AFIN7;
+load AFIN8;
+load AFIN9;
+load AFIN10;
+load AFIN11;
+A=[aaa1;aaa2;aaa3;aaa4;aaa5;aaa6;aaa7; aaa8;aaa9;aaa10;aaa11];
+save('AZUIZ','A');
